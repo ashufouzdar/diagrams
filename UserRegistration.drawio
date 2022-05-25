@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T14:36:31.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="9v-lwplipExWiNkszYjD" version="18.0.6" type="github"><diagram id="FkAby5kWB2kR30akd2Xo" name="Page-1">7VrbcuI4EP0aHqGwZWPzCAE2UzWX7GSmZvOUUmxha9e2PLK47ddvy8i3CBKmFkaVFKkiWEeSJXX3aXVL9NBNuv2D4zz+xEKS9OxhuO2hWc+2x8iB/xLY7QFn5O+BiNNwD1kNcE//JQocKnRFQ1J0GgrGEkHzLhiwLCOB6GCYc7bpNluypDtqjiOiAfcBTnT0Bw1FvEd9d9jgt4RGcTWyNVQ1Ka4aK6CIccg2LQjNe+iGMyb2T+n2hiRSdpVc9v0WR2rriXGSiVM6PNDIvp3dojnyf8423iLhd6SP1NzErlowCWH9qsi4iFnEMpzMG3TK2SoLiXzrEEpNm4+M5QBaAP5NhNgpZeKVYADFIk1U7X5MOdDRpSioYCsekBfmX5kE5hERL7Sza4GDoRKWEsF30I+TBAu67s4DK5OJ6naNVOFBCfYXhKzeu8bJSo2kSR2MI5ePNC3tsS2tNeGCgkFOEhplgAkp5Rr9iJ9IcscKKiiTtU9MCJZCg0RWTHHwT1Tq64YljJdjoWX5B03KwSZFvueNVCauCku6lRqeqvnMYiEk4SZSEPYiCDNnQIFySwqWwAcBjGgvQiwwfEm8gO8FJ6T/iYRylv0PEuzfg47shWX7W/jA0yTPE6iWUx/kWaTEBCsj25ctQ9ek6oAU2Spvo4qbhrrlyBKL27StwLPr3n3jBLNPJJhjkmC2RrCvJKKF4KVpQc2fKwI1zzXBViKhGbmptw4p7hAXcS37V1l2mJxYlQIQN+Fd3VRMT7eR3DAHeFOgwc9yfmi6pEnSYupsPPEc2QmahhReVtVlLCO1nv8fYawuY3ydMR4auDplnEsxZmyCMSAtvvtL9S8LD7IAC1fF2bZdOdup0hmZ5pzINN/oVmaZ1U6jkIeOPg5rpyzdEU5h8ZKHplQ2MqkyR3OOd5wFpCjaPvKwg9TCgbwlSxgagnDSEm9bZZoLrMNfzckuWePYwOk5tudNp6dFMLKrshrLloPkOKBZ9K20K9TEL3UcQ1OIMhYJfZKBypOMWnATg8ioJaUBZwXhaxqQQbGOzuNlXccdjNyOo/UczdH69sDWHe1oeCkuGwn+W1wee+Out3UM83l0Ip8to+nESCP0l+yJYR6C5V8DnaMUdLuBjjU2Hun4miI/M0GXctLfwQVpanxzSaL1apK4on3YiUCFFJJEywMESaF+//A4r+DHL3vrfbQem6bgtfuyb4pp0s+k1JQP7+MEFg0M9c+UUXrPUkrP0sxmNDrgtUeX8to6/U248TN6XevUHNNyjYa+epbZ+N2vBDxbIe73gcM1kLpUIIX82kW/4Md/dyClO/K3Tkn3VEp6RinpHqPkwf2zJauDEdEmpoLcg+XL9hsIWvRAZTxWhNGiGx7EwA1B0KBFBMnfPP+2K5vmkHZJQLZUUK3zs3DDGXeYUR/ttE8/qyioTQx0KWJUa3hHxPBOJEbriscEMTxN8JMc7A/K1wzheIaAuvwZ6qHeb84QbPTeCFTdhr5OIKM5djXN685SMsPqxlxo7JveWd5dFlQt4HVimL1q07Og687yqzuLMzJ+9mTrEcJbJ9CptzG20WMEW7+P+dw6v7qeIFz8KsZ/fhXjmj9CsI9mslSeYg7n8qBTM4rrgbCJA2G7eyDs+p5mPWc6EYZi8/vAsq71I0s0/w8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-25T15:06:14.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Arz1rIsmIHYYvbcGF9rM" version="18.0.6" type="github">
+  <diagram id="FkAby5kWB2kR30akd2Xo" name="Page-1">
+    <mxGraphModel dx="1174" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-1" target="Yig2HDH3E38qDw7FlrPe-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/Free-Medical-Icons-Set/128x128/Application.png" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-2" target="Yig2HDH3E38qDw7FlrPe-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-2" value="Registration Queue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="80" width="73.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Yig2HDH3E38qDw7FlrPe-4" target="Yig2HDH3E38qDw7FlrPe-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Yig2HDH3E38qDw7FlrPe-4" target="Yig2HDH3E38qDw7FlrPe-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-4" value="ProcessRegistrationQueue" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" parent="1" vertex="1">
+          <mxGeometry x="545.65" y="74" width="82.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.979;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Yig2HDH3E38qDw7FlrPe-6" target="Yig2HDH3E38qDw7FlrPe-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-6" value="OnboardingQueue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="190" width="73.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-8" value="Notify User" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-email-notification-alert-128.png" parent="1" vertex="1">
+          <mxGeometry x="730" y="71" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-12" target="Yig2HDH3E38qDw7FlrPe-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-12" value="OnboardingRequestService" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" parent="1" vertex="1">
+          <mxGeometry x="383.5" y="190" width="82.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-15" target="Yig2HDH3E38qDw7FlrPe-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-15" value="OnboardUser" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="349" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-17" target="Yig2HDH3E38qDw7FlrPe-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-17" value="ApprovalQueue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="553" y="301" width="73.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-20" target="Yig2HDH3E38qDw7FlrPe-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-20" value="OnboardUser" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" parent="1" vertex="1">
+          <mxGeometry x="515" y="398" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-22" target="Yig2HDH3E38qDw7FlrPe-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-22" value="ApprovalQueue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="553" y="460" width="73.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-24" target="Yig2HDH3E38qDw7FlrPe-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-24" value="NotificationService" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" parent="1" vertex="1">
+          <mxGeometry x="548.65" y="590" width="82.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-25" value="Onboarding Email" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-email-notification-alert-128.png" parent="1" vertex="1">
+          <mxGeometry x="720" y="587" width="66" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
