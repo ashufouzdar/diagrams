@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T16:51:35.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="akhV7loErNRYVHfMDl2i" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T16:52:52.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="e_0cN82tFtB3tuupfJVp" version="18.0.6" type="github">
   <diagram id="FkAby5kWB2kR30akd2Xo" name="Page-1">
-    <mxGraphModel dx="1174" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="Yig2HDH3E38qDw7FlrPe-25" value="Onboarding Email" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-email-notification-alert-128.png" parent="1" vertex="1">
           <mxGeometry x="720" y="587" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="IKoPHsvepq8at3ogNaPy-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
