@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T15:06:14.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Arz1rIsmIHYYvbcGF9rM" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T16:51:35.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="akhV7loErNRYVHfMDl2i" version="18.0.6" type="github">
   <diagram id="FkAby5kWB2kR30akd2Xo" name="Page-1">
     <mxGraphModel dx="1174" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Yig2HDH3E38qDw7FlrPe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-2" target="Yig2HDH3E38qDw7FlrPe-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yig2HDH3E38qDw7FlrPe-2" value="Registration Queue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-2" value="Registration Queue&lt;br&gt;AWS SQS/Azure EventHub&lt;br&gt;Hasura Events" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="73.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Yig2HDH3E38qDw7FlrPe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Yig2HDH3E38qDw7FlrPe-4" target="Yig2HDH3E38qDw7FlrPe-8" edge="1">
@@ -28,7 +28,7 @@
         <mxCell id="Yig2HDH3E38qDw7FlrPe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.979;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Yig2HDH3E38qDw7FlrPe-6" target="Yig2HDH3E38qDw7FlrPe-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yig2HDH3E38qDw7FlrPe-6" value="OnboardingQueue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-6" value="OnboardingQueue&lt;br&gt;AWS SQS/Azure EventHub&lt;br&gt;Hasura Events" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="190" width="73.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Yig2HDH3E38qDw7FlrPe-8" value="Notify User" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-email-notification-alert-128.png" parent="1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="Yig2HDH3E38qDw7FlrPe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-22" target="Yig2HDH3E38qDw7FlrPe-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yig2HDH3E38qDw7FlrPe-22" value="ApprovalQueue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Yig2HDH3E38qDw7FlrPe-22" value="ApprovalQueue&lt;br&gt;AWS SQS/Azure EventHub&lt;br&gt;Hasura Events" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="553" y="460" width="73.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Yig2HDH3E38qDw7FlrPe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yig2HDH3E38qDw7FlrPe-24" target="Yig2HDH3E38qDw7FlrPe-25" edge="1">
